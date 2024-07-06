@@ -60,9 +60,27 @@ The error metrics seem to show that the model is very accurate. These high value
 
 - **Scenario Analysis:**
 As total Revenue rise to $39,246,849.88 in the Best Case and fall to $32,111,058.99 in the Worst Case. This chart only goes to prove the effect that external factors may have on revenues and makes scenario planning in the development of forecasting highly necessary.
+
+- **Actual Revenue vs. Forecasted Revenue**:
+  Actual revenue is huge, worth $36,100,183, with the forecasted revenue a little short at $35,678,950.
+
+- **Average Price**:
+ The average price per transaction is $509.48 showing a good pricing strategy is in use.
+
+- **Monthly Revenue Trends**:
+ Monthly revenue is inexactly steady and experiences fluctuations.
+
+- **Product Revenue Insights**:
+Certain products contribute significantly to revenue growth.
+
+- **Sales, quantity of Units_sold and Price Trend**:
+   Increasing trend for actual revenue and profit, units_sold and price are quite stable over the months.
+
 ## Recommendations:
 The model should be updated frequently with new data to increase its accuracy.
 Exogenous factors that might have an impact on revenues should be considered and built  into the model.
+Seasonal trends should be monitored.
+Resources should be allocated strategically to high-performing products.
 
 ## Relevant Links
 - [Revenue Forecasting Dashboard](https://github.com/OluwanifemiAjayi/Apple-Sentiment-Analysis/blob/main/Reviews_dashboard.jpg?raw=true)
