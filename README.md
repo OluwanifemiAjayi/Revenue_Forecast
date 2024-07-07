@@ -36,7 +36,7 @@ Using descriptive statistics, I was able to obtain the mean, median, mode,range,
 ![Pivot Tables](https://github.com/OluwanifemiAjayi/Revenue_Forecasting/blob/main/Pivot%20tables.png)
 
 ## 4. Modeling 
-I proceeded to the main purpose of this project, that is to create the model needed to forecast Revenue, but before doing so I calculated the 3-months Moving Averages for the actual Revenue. Using the FORECAST.ETS() function, specifying the seasonality as 12 months, I was able to forecast the revenue for the 12 months of 2024 based on the historical data. Then I calculated the Moving Averages for the 2024 forecasted Revenue.
+I proceeded to the main purpose of this project, that is to create the model needed for Revenue forecasting, but before doing so, I calculated the 3-months Moving Averages for the actual Revenue. Using the FORECAST.ETS() function, specifying the seasonality as 12 months, I was able to forecast the revenue for the 12 months of 2024 based on the historical data. Then I calculated the Moving Averages for the 2024 forecasted Revenue.
 
 ![Forecast Results](https://github.com/OluwanifemiAjayi/Revenue_Forecasting/blob/main/forecast.png)
 
@@ -94,4 +94,5 @@ Resources should be allocated strategically to high-performing products.
 ## Relevant Links
 - [Revenue Forecasting Dashboard](https://github.com/OluwanifemiAjayi/Revenue_Forecasting/blob/main/Revenue%20Forecasting%20Dashboard.jpg)
 - [Excel Workbook](https://github.com/OluwanifemiAjayi/Revenue_Forecasting/blob/main/gadgets_store_data_2023.xlsx)
+- [Gadgets Store Dataset](https://github.com/OluwanifemiAjayi/Revenue_Forecast/blob/main/gadgets_store_dataset.xlsx)
 - [LinkedIn](https://www.linkedin.com/in/oluwanifemiii)
