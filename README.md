@@ -85,11 +85,11 @@ Certain products contribute significantly to revenue growth.
 - **Sales, quantity of Units_sold and Price Trend**:
 Increasing trend for actual revenue and profit while Units_sold and Price are quite stable over the months.
 
-## Recommendations:
-The model should be updated frequently with new data to increase its accuracy.
-Exogenous factors that might have an impact on revenues should be considered and built  into the model.
-Seasonal trends should be monitored.
-Resources should be allocated strategically to high-performing products.
+### Recommendations:
+- The model should be updated frequently with new data to increase its accuracy.
+- Exogenous factors that might have an impact on revenues should be considered and built  into the model.
+- Seasonal trends should be monitored.
+- Resources should be allocated strategically to high-performing products.
 
 ## Relevant Links
 - [Revenue Forecasting Dashboard](https://github.com/OluwanifemiAjayi/Revenue_Forecasting/blob/main/Revenue%20Forecasting%20Dashboard.jpg)
